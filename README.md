@@ -12,6 +12,7 @@ This application leverages the Groq AI API to provide an interactive and intelli
 ## Technologies
 
 -Groq AI API: The core technology powering the chatbot's intelligence and responses.
+
 -Kotlin: The programming language used for development.
 
 ## Installation
